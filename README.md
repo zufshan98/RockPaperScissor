@@ -71,7 +71,7 @@ RockPaperScissors/
 *(After deployment, include screenshots here using Markdown)*
 
 ```markdown
-![Gameplay Screenshot](./images/gameplay.png)
+![Gameplay Screenshot](./images/rockpaperscissor.png)
 ```
 
 ---
