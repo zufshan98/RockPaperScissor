@@ -68,11 +68,7 @@ RockPaperScissors/
 
 ## 📷 Screenshots
 
-*(After deployment, include screenshots here using Markdown)*
-
-```markdown
 ![Gameplay Screenshot](./images/rockpaperscissor.png)
-```
 
 ---
 
