@@ -68,7 +68,7 @@ RockPaperScissors/
 
 ## 📷 Screenshots
 
-![Gameplay Screenshot](./images/rockpaperscissor.PNG)
+![Gameplay Screenshot](./images/rockpaperscissor.png)
 
 ---
 
