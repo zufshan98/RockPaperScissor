@@ -6,7 +6,8 @@ A classic **Rock, Paper, Scissors** game built with **HTML, CSS, and JavaScript*
 
 ## 🎮 Live Demo
 
-🚀 *[Coming soon — deploy on GitHub Pages or Netlify]*
+🚀 https://zufshan98.github.io/RockPaperScissor/
+
 
 ---
 
